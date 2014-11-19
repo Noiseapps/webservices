@@ -3,7 +3,7 @@ README
 
 Projekt z zajęć z webservices.
 
-Każda gałąź będzie odpowiadała jednym zajęciom.
+Każda gałąź będzie odpowiadała jednym zajęciom. (poza master :) - ona jest for fun)
 
 Projekt jest skonfigurowany do pracy z IntelliJ IDEA Ultimate Edition - dla studentów jest dostępna za darmo,
 po założeniu konta na https://www.jetbrains.com/student/ z adresem \<index\>@edu.p.lodz.pl
